@@ -4,4 +4,4 @@
 function mesaj() {
     alert("Butona bastın!");
     }
-    </script>   
+    </script>
